@@ -11,3 +11,11 @@
 .main-header{
    padding-top: 105px;
 }
+
+.subcribe{
+    background-image: url(/assets/images/bgr.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    
+}
