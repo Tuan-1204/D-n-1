@@ -27,3 +27,9 @@
 .coppy-right{
     background-color: #000;
 }
+
+.blur-fillter{
+    backdrop-filter: blur(8px);
+    background-color: #cccccc2b;
+
+}
